@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Satya",
+  "description": "Happy Birthday wishes to Satya aka Mr Pandit, the badass mastermind with the coolest beard in town, featuring an interactive 3D board, customized synthesizer, and Gemini roast engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
